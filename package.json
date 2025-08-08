@@ -4,6 +4,7 @@
 	"description": "fcc backend boilerplate",
 	"main": "server.js",
 	"scripts": {
+		"build": "echo 1",
 		"start": "node myApp.js"
 	},
 	"dependencies": {
